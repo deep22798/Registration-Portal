@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708807372338",
+    "firebase_url": "https://shri-narayan-enterprises-9423c-default-rtdb.firebaseio.com",
+    "project_id": "shri-narayan-enterprises-9423c",
+    "storage_bucket": "shri-narayan-enterprises-9423c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708807372338:android:4501a6d13844ebdf74d62b",
+        "android_client_info": {
+          "package_name": "com.wintechwings.registrationportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708807372338-vj8m815lvfc30pbtrruhic6jadt07p3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wintechwings.registrationportal",
+            "certificate_hash": "abf8d6ed0aceb57e8edec726f5da2b230c95d3fd"
+          }
+        },
+        {
+          "client_id": "708807372338-25jc7l281rsf8j7fmd44rkpnl6rnqp8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAimyh8nqeVENzMSgUIRDhsl8vz9b6bVPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708807372338-25jc7l281rsf8j7fmd44rkpnl6rnqp8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
